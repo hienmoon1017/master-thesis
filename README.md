@@ -1,5 +1,9 @@
 # Master's Thesis, Statistical Model Testing with SPSS and AMOS (EFA, CFA, SEM, etc)
-My thesis, **Factors Affecting the Intention to Continue Using the Social Network Facebook**, was successfully defended to obtain my MBA in February 2017.
+My thesis, **Factors Affecting the Intention to Continue Using the Social Network Facebook**, was **successfully defended to obtain my MBA** in February 2017.
+
+👍 **Tools**: SPSS, AMOS
+
+💡 **Skills**: Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA), Structural Equation Modeling (SEM)
 
 # Research Objectives
 The objective of this thesis is to examine how factors affect the Continued Intention to Use Facebook
@@ -30,7 +34,7 @@ The objective of this thesis is to examine how factors affect the Continued Inte
 |                            | - H6b: Perceived Compatibility has a positive impact on Usefulness. |
 |                            | - H6c: Perceived Compatibility has a positive impact on Enjoyment. |
 
-# Research Process:
+# Research Process
 
 The research was conducted in two stages: preliminary and formal research.
 
@@ -92,7 +96,7 @@ The research was conducted in two stages: preliminary and formal research.
 | PCP3                                      | Facebook is highly compatible with other social networking sites            |
 | PCP4                                      | Facebook is highly compatible with the IM applications (e.g., MSN) I usually use |
 
-# Data Cleaning and Descriptive Statistics.
+# Data Cleaning and Descriptive Statistics
 The study was conducted using a questionnaire with **26 observational variables** and several specific questions (age, gender, etc). Over 550 online questionnaires and 150 paper questionnaires were collected, resulting in 379 responses. After analyzing and removing incomplete and invalid responses, **309 valid questionnaires** were used for the research.
 
 | Characteristic           | Category                      | Number | Percentage |
@@ -112,7 +116,8 @@ The study was conducted using a questionnaire with **26 observational variables*
 | **Extroversion**         | Low                           | 181    | 58.6%      |
 |                          | High                          | 128    | 41.4%      |
 
-#Results and Conclusion
+
+# Results and Conclusion
 By running these Statistical Testing:
 - **Cronbach’s Alpha**: Reliability tested with **SPSS**.
 - Exploratory Factor Analysis (**EFA**): Conducted using **SPSS** to identify factor structure.
@@ -120,13 +125,23 @@ By running these Statistical Testing:
 - Structural Equation Modeling (**SEM**): Tested with **AMOS** to validate the research model.
 - **Multi-Group Analysis**: Performed with** Chi-square test** to assess differences across groups.
 
-**The results are:**
+and, the results are:
 Cronbach’s Alpha confirms all scales are reliable. Factor analysis (EFA) removed one variable, but Confirmatory Factor Analysis (CFA) showed all variables meet the requirements, and the model fits the market data. Structural Equation Modeling (SEM) accepted most hypotheses. Multi-group analysis revealed no differences between variable-change and invariant models by gender and extroversion.
 
-**Conclusion:**
+👉 **Conclusion:**
 
-- **Framework Proposal:** This study proposes a theoretical framework combining motivation and external network theories to explore factors affecting Facebook usage intentions. The model effectively predicts users' intentions to continue using Facebook.
-- **Key Findings:**
+This study proposes a theoretical framework combining motivation and external network theories to explore factors affecting Facebook usage intentions. The model effectively predicts users' intentions to continue using Facebook.
+
 - **Number of Peers, Perceived External Prestige, Perceived Complementarity, Perceived Compatibility, Usefulness, and Enjoyment** explain **80.1%** of the variance in usage intention. Usefulness has the highest positive impact (standardized regression coefficient of **0.502**). Users who find Facebook useful are more likely to continue using it and recommend it to others.
 - **Perceived External Prestige, Perceived Complementarity, and Perceived Compatibility** positively impact Usefulness, explaining **67%** of its variance. Supplementarity has the greatest impact (standardized coefficient of** 0.486**). Facebook’s value in sharing content and engaging in communities enhances its perceived usefulness.
 - **Number of Peers, Perceived External Prestige, and Perceived Complementarity** positively affect Enjoyment, explaining **46.3%** of its variance. **Number of Peers** has the strongest effect (standardized coefficient of **0.374**). Facebook helps users connect and maintain relationships, contributing to their enjoyment.
+
+Thank you for stopping by, and I'm pleased to connect with you, my new friend!
+
+**Please do not forget to FOLLOW and star ⭐ the repository if you find it valuable.**
+
+Wish you a day filled with happiness and energy!
+
+Warm regards,
+
+Hien Moon | [Visit My Blog](https://hienmoon.com/?utm_source=github&utm_medium=readme)
