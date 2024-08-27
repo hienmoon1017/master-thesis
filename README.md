@@ -6,13 +6,13 @@ My thesis, **Factors Affecting the Intention to Continue Using the Social Networ
 💡 **Skills**: Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA), Structural Equation Modeling (SEM)
 
 # Research Objectives
-The objective of this thesis is to examine how factors affect the Continued Intention to Use Facebook
+The objective of this thesis is to examine how factors affect the Continued Intention to Use Facebook. The results will answer the following questions:
 
-# Research Questions
 - What factors influence the intention to continue using Facebook?
 - Which of these factors is the most important?
 - Are there differences in the factors affecting the intention to continue using Facebook based on personal characteristics such as gender and extroversion?
-# Research Model
+
+# Research Model & Hypothesis
 ![thesis research model](https://github.com/user-attachments/assets/0fbb7711-6742-4fc6-8689-46886376ceb2)
 
 **Table of Hypothesis**
